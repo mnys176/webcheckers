@@ -1,0 +1,9 @@
+How to run it:
+
+    Unzip WebCheckers-09s2c.zip
+    Go into top level of generated directory
+    Execute mvn compile exec:java
+    Open in your browser http://localhost:4567/
+
+
+

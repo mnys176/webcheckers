@@ -1,0 +1,29 @@
+commit 028f858e9f233a3e64da41625bf5a0ccade381ac
+Author: cke7816 <cke7816@rit.edu>
+Date:   Thu Sep 17 11:56:18 2020 -0400
+
+    Added Name
+
+commit b6c8093c030215ee163c75c158f2460a7bfe156b
+Author: Mike Nystoriak <mxn1803@g.rit.edu>
+Date:   Thu Sep 17 10:01:47 2020 -0400
+
+    Added name.
+
+commit b9e0cb15078fda69f6771e8380eea2f7fa01f87c
+Author: Aaron <54863852+asegs@users.noreply.github.com>
+Date:   Thu Sep 17 09:45:12 2020 -0400
+
+    Added name to readme
+
+commit d24f7c1d8e0ba973904340b527207869671f8148
+Author: Jack Gilbert <jeg6835@rit.edu>
+Date:   Thu Sep 17 09:36:30 2020 -0400
+
+    Jack.G added name to README
+
+commit 51e2e9460b006f297541fdaff0417e2e0d56b7d3
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Mon Sep 14 16:48:31 2020 -0400
+
+    Initial commit
